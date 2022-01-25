@@ -4,3 +4,4 @@
 #4 Create and Customize Services Section
 #5 Create and Style Features Section
 #6 Create and Style "Get Started" Section
+#7 Create and Style Footer
