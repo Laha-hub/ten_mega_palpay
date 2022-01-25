@@ -6,3 +6,4 @@
 #6 Create and Style "Get Started" Section
 #7 Create and Style Footer
 #8 Create and Style Login Page
+#9 Create and Style Sign Up Page
