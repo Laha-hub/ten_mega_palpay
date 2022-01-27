@@ -8,3 +8,5 @@
 #8 Create and Style Login Page
 #9 Create and Style Sign Up Page
 #10 Make the Project Responsive - Part 1
+#11 Make the Project Responsive - Part 2
+
