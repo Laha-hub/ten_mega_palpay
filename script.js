@@ -74,6 +74,11 @@
         });
     }
 
+
+    window.addEventListener('resize', () => {
+        window.location.reload();
+    });
+
     // end of navigation
 
 
